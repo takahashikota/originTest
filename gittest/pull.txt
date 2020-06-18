@@ -13,7 +13,7 @@ please write your number.
 5.4
 ---------------------------------------------------------------
 please write your alphabet.
-1.
-2.
+1.a
+2.b
 3.c
 4.d
