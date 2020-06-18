@@ -1,2 +1,4 @@
 git pull ex
 edited this text
+master merged.
+edited master this text.if you edite this text,please pull me.
