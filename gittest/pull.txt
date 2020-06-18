@@ -2,3 +2,5 @@ git pull ex
 edited this text
 master merged.
 edited master this text.if you edite this text,please pull me.
+this txt edited by local branch(testbranch).
+if you see miss,please tell me.
